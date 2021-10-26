@@ -2,7 +2,7 @@
 
 Here is my solution to the Google Homepage clone challenge fron The Odin project.
 
-[Live Page] (https://sebastienpj.github.io/Google_Homepage/)
+[Live Page](https://sebastienpj.github.io/Google_Homepage/)
 
 I used HTML and CSS to complete this project.
 
